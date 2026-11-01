@@ -1,0 +1,13 @@
+skia-python
+uharfbuzz
+freetype-py
+fonttools
+av
+gemini_webapi
+pydantic
+python-dotenv
+numpy
+scipy
+shapely
+kiwisolver
+pillow
